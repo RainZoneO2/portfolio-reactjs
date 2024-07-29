@@ -4,11 +4,20 @@ const Home = () => {
             <h1>Alghaith Ahmad - Software Engineer</h1>
             <div className="card">
                 <h2>Who am I?</h2>
-                <p>Answer</p>
+                <h3>
+                    I'm a Computer Engineering graduate from the Budapest University of Technology and Economics.
+                </h3>
+                
             </div>
             <div className="card">
-                <h2>Who am I?</h2>
-                <p>Answer</p>
+                <h2>My Links</h2>
+                <a href="https://www.linkedin.com/in/ghaith-ahmad/" target="_blank">
+                    LinkedIn
+                </a>
+                <br />
+                <a href="mailto:alghaith.ah38@gmail.com">
+                    Email
+                </a>
             </div>
         </>
     )
