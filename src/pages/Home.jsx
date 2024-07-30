@@ -7,10 +7,12 @@ const Home = () => {
                 <h3>
                     I'm a Computer Engineering graduate from the Budapest University of Technology and Economics.
                 </h3>
-                
+                <h3>
+                    I currently facilitate discussions on AI Safety and code in my free time.
+                </h3>
             </div>
             <div className="card">
-                <h2>My Links</h2>
+                <h2>Contact me here!</h2>
                 <a href="https://www.linkedin.com/in/ghaith-ahmad/" target="_blank">
                     LinkedIn
                 </a>
